@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.flex-container{
+    height: 90px;
+    display: hotpink;
+    /*flex-direction: row; */
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card{
+    max-width: 200px;
+    border: 2px solid hotpink;  
+    padding: 20 px;
+}
+
+
